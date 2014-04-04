@@ -1,0 +1,6 @@
+{
+  "id": "subject",
+  "display_name": "Subject ID",
+  "description": "",
+  "type": "string"
+}
