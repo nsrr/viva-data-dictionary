@@ -1,0 +1,7 @@
+{
+  "id": "qs_mainsleeps_invalid",
+  "display_name": "Number of main sleeps invalid",
+  "description": "",
+  "type": "numeric",
+  "units": "main sleeps"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "qs_mainsleeps_recorded",
+  "display_name": "Number of main sleep periods recorded",
+  "description": "",
+  "type": "numeric",
+  "units": "main sleeps"
+}

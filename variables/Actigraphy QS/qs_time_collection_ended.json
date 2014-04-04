@@ -1,0 +1,6 @@
+{
+  "id": "qs_time_collection_ended",
+  "display_name": "Time that data collection ended",
+  "description": "",
+  "type": "time"
+}

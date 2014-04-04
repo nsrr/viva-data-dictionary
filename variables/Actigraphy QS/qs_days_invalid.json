@@ -1,0 +1,7 @@
+{
+  "id": "qs_days_invalid",
+  "display_name": "Number of days invalid",
+  "description": "",
+  "type": "integer",
+  "units": "days"
+}

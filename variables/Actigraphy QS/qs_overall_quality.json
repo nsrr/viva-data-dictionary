@@ -1,0 +1,7 @@
+{
+  "id": "qs_overall_quality",
+  "display_name": "Overall actigraphy study quality",
+  "description": "",
+  "type": "choices",
+  "domain": "quality"
+}

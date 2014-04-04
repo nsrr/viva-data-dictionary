@@ -1,0 +1,6 @@
+{
+  "id": "qs_date_collection_started",
+  "display_name": "Date that data collection began",
+  "description": "",
+  "type": "date"
+}

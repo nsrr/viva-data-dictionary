@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Acceptable",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Recommend Repeat",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No useable data",
+    "description": ""
+  }
+]

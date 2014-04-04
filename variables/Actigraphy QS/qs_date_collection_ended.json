@@ -1,0 +1,6 @@
+{
+  "id": "qs_date_collection_ended",
+  "display_name": "Date that data collection ended",
+  "description": "",
+  "type": "date"
+}

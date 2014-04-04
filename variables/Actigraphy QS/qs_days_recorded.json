@@ -1,0 +1,7 @@
+{
+  "id": "qs_days_recorded",
+  "display_name": "Number of days recorded",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}
