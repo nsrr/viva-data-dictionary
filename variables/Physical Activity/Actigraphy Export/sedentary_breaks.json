@@ -1,0 +1,7 @@
+{
+  "id": "sedentary_breaks",
+  "display_name": "Number of sedentary breaks on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "breaks"
+}

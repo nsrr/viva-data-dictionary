@@ -1,0 +1,7 @@
+{
+  "id": "mets",
+  "display_name": "Average METs per hour",
+  "description": "",
+  "type": "numeric",
+  "units": "metabolic equivalents"
+}

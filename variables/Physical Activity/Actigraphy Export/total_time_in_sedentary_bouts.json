@@ -1,0 +1,7 @@
+{
+  "id": "total_time_in_sedentary_bouts",
+  "display_name": "Total time spent in sedentary bouts on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

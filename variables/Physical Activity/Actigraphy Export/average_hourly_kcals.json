@@ -1,0 +1,7 @@
+{
+  "id": "average_hourly_kcals",
+  "display_name": "Average number of kilocalories burned per hour",
+  "description": "",
+  "type": "numeric",
+  "units": "kilocalories per hour"
+}

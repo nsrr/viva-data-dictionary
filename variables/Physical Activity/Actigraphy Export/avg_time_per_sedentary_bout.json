@@ -1,0 +1,7 @@
+{
+  "id": "avg_time_per_sedentary_bout",
+  "display_name": "Average duration of sedentary bouts on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

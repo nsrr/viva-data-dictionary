@@ -1,0 +1,7 @@
+{
+  "id": "total_counts_in_freedson__1998_",
+  "display_name": "Total number of activity counts in Freedson (1998) bouts on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "counts"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "max_time_per_sedentary_break",
+  "display_name": "Duration of the longest sedentary break on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

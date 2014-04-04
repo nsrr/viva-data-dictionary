@@ -1,0 +1,7 @@
+{
+  "id": "sedentary_bouts",
+  "display_name": "Number of sedentary bouts on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "bouts"
+}

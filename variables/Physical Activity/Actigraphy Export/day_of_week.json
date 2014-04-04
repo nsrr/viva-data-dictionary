@@ -1,0 +1,6 @@
+{
+  "id": "day_of_week",
+  "display_name": "Day of Week Recorded",
+  "description": "",
+  "type": "string"
+}

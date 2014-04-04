@@ -1,0 +1,7 @@
+{
+  "id": "avg_time_per_freedson__1998__bou",
+  "display_name": "Average duration Freedson (1998) bouts on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

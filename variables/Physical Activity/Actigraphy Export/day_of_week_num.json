@@ -1,0 +1,7 @@
+{
+  "id": "day_of_week_num",
+  "display_name": "Number day of the week",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

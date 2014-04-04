@@ -1,0 +1,7 @@
+{
+  "id": "total_time_in_sedentary_breaks",
+  "display_name": "Total amount of time spent in sedentary breaks on the recorded day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}
