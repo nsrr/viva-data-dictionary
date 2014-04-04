@@ -1,0 +1,7 @@
+{
+  "id": "qs_pa_schoolday",
+  "display_name": "Was the recorded day a school/work day?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes012"
+}

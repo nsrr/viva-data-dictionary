@@ -1,0 +1,7 @@
+{
+  "id": "qs_pa_valid_day",
+  "display_name": "Was the day recorded a valid day?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

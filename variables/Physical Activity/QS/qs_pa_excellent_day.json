@@ -1,0 +1,7 @@
+{
+  "id": "qs_pa_excellent_day",
+  "display_name": "Was the day recorded an excellent day?",
+  "description": "An excellent day is a day in which there is under 60 minutes of non-wear time, not including during sleep time.",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "qs_pa_sickday",
+  "display_name": "Was the recorded day a sickday?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes012"
+}
