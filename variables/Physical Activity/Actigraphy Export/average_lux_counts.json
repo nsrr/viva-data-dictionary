@@ -1,7 +1,0 @@
-{
-  "id": "lux_average_counts",
-  "display_name": "Average lux level",
-  "description": "",
-  "type": "numeric",
-  "units": "counts"
-}
