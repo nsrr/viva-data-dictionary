@@ -1,0 +1,7 @@
+{
+  "id": "steps_max_counts",
+  "display_name": "Maximum steps count",
+  "description": "",
+  "type": "numeric",
+  "units": "steps"
+}

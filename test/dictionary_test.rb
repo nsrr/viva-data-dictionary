@@ -3,7 +3,7 @@ require 'test_helper'
 class DictionaryTest < Test::Unit::TestCase
   include Spout::Tests
 
-  VALID_UNITS = ['main sleeps', 'kilograms', 'years', 'days', 'minutes', 'counts', 'breaks', 'bouts', 'metabolic equivalents', 'kilocalories', 'kilocalories per hour', 'counts', 'counts per minute', '']
+  VALID_UNITS = ['main sleeps', 'kilograms', 'years', 'days', 'minutes', 'counts', 'breaks', 'bouts', 'metabolic equivalents', 'kilocalories', 'kilocalories per hour', 'counts', 'counts per minute', 'steps', 'steps per minute', 'epochs', '']
 
   def assert_units(units, msg = nil)
     full_message = build_message(msg, "? invalid units. Valid types: #{VALID_UNITS.join(', ')}", units)

@@ -1,0 +1,7 @@
+{
+  "id": "steps_average_counts",
+  "display_name": "Average steps count",
+  "description": "",
+  "type": "numeric",
+  "units": "steps"
+}

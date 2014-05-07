@@ -1,0 +1,7 @@
+{
+  "id": "lux_max_counts",
+  "display_name": "Maximum lux level",
+  "description": "",
+  "type": "numeric",
+  "units": "counts"
+}

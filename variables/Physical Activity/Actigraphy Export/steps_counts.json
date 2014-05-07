@@ -1,0 +1,7 @@
+{
+  "id": "steps_counts",
+  "display_name": "Steps count",
+  "description": "",
+  "type": "numeric",
+  "units": "steps"
+}

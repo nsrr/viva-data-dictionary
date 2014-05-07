@@ -1,0 +1,7 @@
+{
+  "id": "steps_per_minute",
+  "display_name": "Average number of steps per minute",
+  "description": "",
+  "type": "numeric",
+  "units": "steps per minute"
+}
