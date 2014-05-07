@@ -3,5 +3,5 @@
   "display_name": "Magnitude of vector counts",
   "description": "",
   "type": "numeric",
-  "units": "Counts"
+  "units": "counts"
 }

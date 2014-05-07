@@ -1,7 +1,7 @@
 {
   "id": "axis_1_counts",
-  "display_name": "Axis 1 Counts",
+  "display_name": "Axis 1 counts",
   "description": "",
   "type": "numeric",
-  "units": "Counts"
+  "units": "counts"
 }

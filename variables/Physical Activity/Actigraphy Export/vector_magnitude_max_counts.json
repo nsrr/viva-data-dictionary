@@ -3,5 +3,5 @@
   "display_name": "Maximum magnitude of vector counts",
   "description": "",
   "type": "numeric",
-  "units": "Counts"
+  "units": "counts"
 }

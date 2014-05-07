@@ -3,5 +3,5 @@
   "display_name": "Average number of axis 3 counts",
   "description": "",
   "type": "numeric",
-  "units": "Counts"
+  "units": "counts"
 }
