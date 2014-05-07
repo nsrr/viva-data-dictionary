@@ -1,0 +1,7 @@
+{
+  "id": "axis_1_average_counts",
+  "display_name": "Average number of axis 1 counts",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts"
+}

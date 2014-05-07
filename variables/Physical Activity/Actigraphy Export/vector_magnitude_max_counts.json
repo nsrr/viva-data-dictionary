@@ -1,0 +1,7 @@
+{
+  "id": "vector_magnitude_max_counts",
+  "display_name": "Maximum magnitude of vector counts",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "vector_magnitude_average_counts",
+  "display_name": "Average magnitude of vector counts",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts"
+}

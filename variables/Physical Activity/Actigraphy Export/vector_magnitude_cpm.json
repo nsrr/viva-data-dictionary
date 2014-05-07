@@ -1,0 +1,7 @@
+{
+  "id": "vector_magnitude_cpm",
+  "display_name": "Magnitude of vector counts per minute",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts per minute"
+}

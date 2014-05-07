@@ -1,0 +1,7 @@
+{
+  "id": "axis_1_max_counts",
+  "display_name": "Maximum number of axis 1 counts",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "vector_magnitude_counts",
+  "display_name": "Magnitude of vector counts",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts"
+}

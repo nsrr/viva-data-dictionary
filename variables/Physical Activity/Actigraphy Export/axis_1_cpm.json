@@ -1,0 +1,7 @@
+{
+  "id": "axis_1_cpm",
+  "display_name": "Number of axis 1 counts per minute",
+  "description": "",
+  "type": "numeric",
+  "units": "Counts per minute"
+}
